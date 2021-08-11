@@ -1,8 +1,8 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Micro Reddit
 
-> This is a junior version of. This project contains build the data structures necessary to support link submissions and commenting. It does not have any front-end, thus there is no live version for this app. However the user can use the Rails console to play around with models without the overhead of making HTTP requests and involving controllers or views.
+> This is a junior version of ![Reddit](https://www.reddit.com/). This project contains build the data structures necessary to support link submissions and commenting. It does not have any front-end, thus there is no live version for this app. However the user can use the Rails console to play around with models without the overhead of making HTTP requests and involving controllers or views.
 
 ![screenshot](./screenshot_1.png)
 ![screenshot](./screenshot_2.png)
